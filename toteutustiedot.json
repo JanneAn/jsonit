@@ -1,19 +1,27 @@
 {
     "nimi": "Digitekniikat - DIG007AS2A-3012",
-    "osallistujat_lkm": "30",
+    "osallistujat_lkm": "15",
     "osallistujat": [
-          "Emma Virtanen",
-          "Juho Lahtinen",
-          "Sofia Nieminen",
-          "Aleksi Salonen",
-          "Laura Korhonen",
-          "Jani Savolainen",
-          "Heli Saarinen"
-        ],
+        "Pekka Virtanen",
+        "Sirpa Lahtinen",
+        "Sofia Nieminen",
+        "Aleksi Salonen",
+        "Laura Korhonen",
+        "Jouko Savolainen",
+        "Pirjo Saarinen",
+        "Simo Salminen",
+        "Tarja Laakkonen",
+        "Sonja Numminen",
+        "Iiro Mäki",
+        "Liisa Kokkola",
+        "Yrjö Andersson",
+        "Jukka Saari",
+        "Arja Liikanen"
+    ],
     "aikataulu": {
         "alku": "19.08.2024",
         "loppu": "13.10.2024",
         "kesto": 8
-          },
-    "kuva": "https://github.com/JanneAn/kuvat/blob/main/digi.jpg" 
-  }
+    },
+    "kuva": "https://github.com/JanneAn/kuvat/blob/main/digi.jpg"
+}
